@@ -1,7 +1,5 @@
 # End-to-End Flight-Price-Predictor using AWS SageMaker
 
-- [Web Application] (https://sagemaker-flight-price-prediction-gzjdrf7kenuxnnlr8zrh94.streamlit.app/)
-
 ## Prerequisites
 
 - Familiarity with Python programming language
@@ -33,5 +31,5 @@
 - **4. Model Training and Deployment**
   - Training and Tuning a machine learning model on SageMaker
   - Using S3 buckets for storage and EC2 for computing purposes
-  - Creating a web application from scratch and deploying over cloud using Streamlit
+  - Creating a android application from scratch using jetpack compose and android studio 
 
